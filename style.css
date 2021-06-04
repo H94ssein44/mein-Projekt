@@ -1,3 +1,20 @@
+#wrap{ 
+    margin: 0 auto;
+    text-align: center;
+
+     border: blue;
+     margin: 0 auto;
+}
 h1{
-    color: blue;
+    background-color: black;
+    color: gold;
+    margin: 0 auto;
+}
+h2{
+    background-color: black;
+    color: gold;
+    margin: 0 auto;
+}
+#npara{
+    background-color: greenyellow;
 }
