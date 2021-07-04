@@ -32,7 +32,7 @@ a {
    
 }
 
-header{
+header {
 	padding: 100px;
 	color: black ;
 
@@ -42,13 +42,25 @@ header{
     background-color:   #9FB7A0;
     
 }
-
+h1{
+	font-family: Festive; 
+    font-weight: 1000;
+	font-size: 70px;
+}
 h3 {
 	float: right;
+	
+	
+
+}
+.titel-2{
+	padding-bottom: 77px;
 }
 h2{
 	text-shadow: 10px 10px 10px black;
-	padding-bottom: 77px;
+	
+	font-family: Festive ;
+	font-size: 40px;
 
 }
 #van-gogh-bild {
