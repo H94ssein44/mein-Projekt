@@ -19,18 +19,20 @@ text-shadow: 10px 10px 10px black;
 	border: 2px solid #874526 ;
 	background-color: #9FB7A0;
 }
+ul li{
+	
+}
 .list ul li:hover {
 
-	background-color: #ABDACB;
+	background-color: #5cf5c5;
     
 }
-a {
-   
-   color: black;
-   margin: 1px;
-   padding: 1px;
-   
+a{
+	text-decoration: none;
+	color: burlywood;
+	margin-left: 30px;
 }
+
 
 header {
 	padding: 100px;
