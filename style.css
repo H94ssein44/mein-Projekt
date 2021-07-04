@@ -1,20 +1,128 @@
-#wrap{ 
-    margin: 0 auto;
-    text-align: center;
+body {
+	background-color: #4b5c54;
+}
+.titel-2{
 
-     border: blue;
-     margin: 0 auto;
+text-align: center;
+color: black ;
 }
-h1{
-    background-color: black;
-    color: gold;
-    margin: 0 auto;
+
+
+.list ul li {
+	float: right;
+	list-style-type: none;
+	padding: 5px;
+	margin: 2px;
+    font-size: 14px;
+  	transition: all 1s ease-out;
+	border: 2px solid #874526 ;
+	background-color: #9FB7A0;
 }
-h2{
-    background-color: black;
-    color: gold;
-    margin: 0 auto;
+.list ul li:hover {
+
+	
+	background-color: #ABDACB;
+    
+  
 }
-#npara{
-    background-color: greenyellow;
+a {
+   
+   color: black;
+   margin: 1px;
+   padding: 1px;
+   
 }
+
+header{
+	padding: 100px;
+	color: black ;
+
+	border: 2px solid rgba(245, 122, 7, 0.993);
+	text-shadow: 10px 10px 10px black;
+	text-align: center;
+    background-color:   #9FB7A0;
+    
+}
+
+h3 {
+	float: right;
+}
+
+#van-gogh-bild {
+	float: left;
+	border-radius: 150px;
+	box-shadow: 15px 10px 18px rgba(26, 26, 27, 0.979);
+	margin: 20px;
+	border: 4px solid rgba(250, 104, 6, 0.938);
+	text-align: right;
+}
+
+img {
+	height: 300px;
+	width: 300px;
+	margin: 10px;
+	border: 3px solid rgb(243, 119, 4);
+}
+
+.stern-bild {
+ 
+	height: 400px;
+	width: 600px;
+	float: right;
+	box-shadow: 16px 12px 18px;
+	margin: 20px;
+}
+.stern-text {
+	margin: 10px;
+	width: 800px;
+	height: 400px;
+	padding: 20px;
+
+}
+.blumen-bild {
+	height: 450px;
+	width: 450px;
+	float: right;
+	box-shadow: 16px 12px 18px;
+	
+}
+.blumen-text{
+  padding: 2px;
+	margin: 10px;
+
+
+}
+.mandel-bild {
+	height: 400px;
+	width: 600px;
+	float: right;
+	box-shadow: 16px 12px 18px;
+	margin: 10px;
+}
+.mandel-text {
+	padding: 2px;
+	margin: 10px;
+}
+
+.cafe-bild {
+	height: 400px;
+	width: 600px;
+	float: right;
+	box-shadow: 16px 12px 18px;
+	margin: 10px;
+}
+
+.raben-bild {
+	height: 550px;
+	width: 500px;
+	float: right;
+	box-shadow: 16px 12px 18px;
+	margin: 20px;
+}
+.raben-text{
+	padding: 10px 10px 10px;
+	margin: 20px;
+ 
+  }
+
+ 
