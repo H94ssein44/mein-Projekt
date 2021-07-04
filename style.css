@@ -5,6 +5,7 @@ body {
 
 text-align: center;
 color: black ;
+text-shadow: 10px 10px 10px black;
 }
 
 
@@ -45,7 +46,10 @@ header{
 h3 {
 	float: right;
 }
+h2{
+	text-shadow: 10px 10px 10px black;
 
+}
 #van-gogh-bild {
 	float: left;
 	border-radius: 150px;
